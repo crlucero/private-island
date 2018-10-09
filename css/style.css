@@ -1,18 +1,18 @@
 h1 {
-  color: blue;
+  color: darkred;
   text-align: center;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
-  color: teal;
+  color: red;
 }
 
 p {
-  color: black;
+  color: crimson;
 }
 
 body {
-  background-color: red;
+  background-color: salmon;
 }
